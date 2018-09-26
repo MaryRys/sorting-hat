@@ -1,0 +1,18 @@
+body {
+    background-color: plum;
+}
+#jumbotron {
+    background-color: lightblue;
+    margin: 20px;
+}
+
+#gameContainer{
+    align-items: center;
+}
+
+#sortingForm {
+    background-color: blanchedalmond;
+    margin: 20px;
+    width: 60%;
+    align-content: center;
+}
